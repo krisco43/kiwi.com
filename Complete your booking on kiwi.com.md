@@ -43,7 +43,8 @@ The *Select your ticket fare* page gives you several fare options such as the **
 
 > **_NOTE:_**  Cancellation and rebooking are only available up to 4 hours before the first departure in your itinerary.
 
-2. Select the **Kiwi.com Transfer Protection**, or select **No Transfer Protection** to proceed without the *Kiwi.com guarantee*, which gives you a free alternative ticket to your destination, or a full refund in case your trip is affected by carrier delay or cancellation. 
+## Select your Kiwi.com Transfer Protection
+1. Select the **Kiwi.com Transfer Protection**, or select **No Transfer Protection** to proceed without the *Kiwi.com guarantee*, which gives you a free alternative ticket to your destination, or a full refund in case your trip is affected by carrier delay or cancellation. 
 
 
 
