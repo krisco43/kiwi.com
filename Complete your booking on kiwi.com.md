@@ -11,7 +11,7 @@ To complete your booking and pay, do the five steps given below:
 ## Enter the Passenger details
 
 1) Select **Book**, the *Passenger details* page appears. It also gives the booking summary. The total cost of flight, including taxes, baggage and insurance is shown on the right.
-![Passenger Details Screen 1](file:///D:\Pers\CV\Tests%20from%20Employers\markdown\passenger_details_1.png)
+![Passenger Details Screen](passenger%20details%203.png)
 2) Enter the following information in the *Passenger details* page:
 
     a. Your contact details such a your **Email** and **Phone number**.
